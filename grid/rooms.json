@@ -1,0 +1,13 @@
+[
+    {"room":"000001", "banner":"default_banner.png","title":"Neko Room"},
+    {"room":"123992", "banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F09%2FSuits-Banner.jpg&f=1&nofb=1&ipt=0b1494c7310219e6673f602d5fa9b46757bf9d6086a98a7ad553e5392b02f166","title":"Suits"},
+    {"room":"123990", "banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.quodb.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F10%2FTheOffice.jpg&f=1&nofb=1&ipt=7b49d076085506a170b82c0aa6d0242bcfebba726a2a572b9676117f9a414d3d","title":"The Office"},
+    {"room":"101010", "banner":"default_banner.png","title":"Fifa Room"},
+    {"room":"111011", "banner":"default_banner.png","title":"Wimbledon"},
+    {"room":"123994", "banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.plex.tv%2Fphoto%3Fsize%3Dlarge-1280%26url%3Dhttps%253A%252F%252Fmetadata-static.plex.tv%252F2%252Fgracenote%252F2d0a2b08b5b94929e99a9fea79654e74.jpg&f=1&nofb=1&ipt=61f0e4c579d37a6c09b266b821a61899eee1562bf4355fae0ab037d1414ffcbf","title":"Naruto"},
+    {"room":"000002", "banner":"default_banner.png","title":"Neko Room"},
+    {"room":"000003", "banner":"default_banner.png","title":"Neko Room"},
+    {"room":"000004", "banner":"default_banner.png","title":"Neko Room"},
+    {"room":"000005", "banner":"default_banner.png","title":"Neko Room"},
+    {"room":"000006", "banner":"default_banner.png","title":"Neko Room"}
+]
